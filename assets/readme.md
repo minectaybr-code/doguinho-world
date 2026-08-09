@@ -2,7 +2,6 @@
 
 **Doguinho World** é um jogo educativo e interativo projetado para ensinar e engajar estudantes através de mecânicas de gamificação. Nele, os jogadores ajudam um simpático cãozinho a desviar de obstáculos e coletar recompensas até alcançar sua casa.
 
-\---
 
 ## Base Teórica e Científica
 
@@ -18,33 +17,12 @@ O desenvolvimento e a proposta pedagógica deste jogo são fundamentados no arti
 2. **Estímulo à Motivação:** Estudantes em ambientes gamificados dedicam mais tempo à resolução de desafios e exercícios do que em ambientes de ensino tradicionais.
 3. **Eficácia Comprovada:** 22 de 28 estudos analisados na Revisão Sistemática demonstraram impactos estritamente positivos no desempenho e na retenção do conhecimento dos discentes.
 
-\---
 
 ## 🕹️ Funcionalidades do Jogo
 
 * **Mecânica Responsiva:** Controle o personagem em tempo real.
 * **Progressão por Fases:** Desafios crescentes que reforçam a fixação de conceitos.
 * **Acesso Integrado a Recursos:** Acesso direto ao artigo científico em PDF e à documentação no próprio menu do jogo.
-
-\---
-
-## 🚀 Como Executar o Projeto
-
-1. Clone ou baixe este repositório.
-2. Certifique-se de manter a seguinte estrutura de arquivos:
-
-```text
-   doguinho-world/
-   ├── index.html
-   ├── style.css
-   ├── script.js
-   ├── artigo.pdf
-   └── README.md
-   ```
-
-3. Abra o arquivo `index.html` em qualquer navegador moderno.
-
-\---
 
 ## 📄 Desenvolvido por:
 
