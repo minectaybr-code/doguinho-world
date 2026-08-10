@@ -18,13 +18,13 @@ O desenvolvimento e a proposta pedagógica deste jogo são fundamentados no arti
 3. **Eficácia Comprovada:** 22 de 28 estudos analisados na Revisão Sistemática demonstraram impactos estritamente positivos no desempenho e na retenção do conhecimento dos discentes.
 
 
-## 🕹️ Funcionalidades do Jogo
+## Funcionalidades do Jogo
 
 * **Mecânica Responsiva:** Controle o personagem em tempo real.
 * **Progressão por Fases:** Desafios crescentes que reforçam a fixação de conceitos.
 * **Acesso Integrado a Recursos:** Acesso direto ao artigo científico em PDF e à documentação no próprio menu do jogo.
 
-## 📄 Desenvolvido por:
+##  Desenvolvido por:
 
 Juan Souza
 
